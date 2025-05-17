@@ -45,7 +45,7 @@ CifradoCesar1/
 ---
 
 ## ✅ Thanks you!
-[![cifradocesar.png](https://i.postimg.cc/j2scdy8C/cifradocesar.png)](https://postimg.cc/34cmt0QH)
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/j2scdy8C/cifradocesar.png' border='0' alt='cifradocesar'/></a>
 
 
 
