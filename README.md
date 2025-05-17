@@ -8,7 +8,7 @@ la funcionalidad interpreta solo los caracteres dentro de una clase Alfabeto def
 ## ✨ Funcionalidades
 
 - ✅ Cifrado de texto por desplazamiento
-- 🔓 Descifrado automático
+- 🔓 Descifrado de texto por desplazamiento 
 - 📄 Lectura desde archivos `.txt`
 - 💾 Escritura del resultado en nuevos archivos
 
@@ -42,6 +42,7 @@ CifradoCesar1/
    ```bash
    javac src/*.java
    java src/Main
+3. Para la toma y salida de datos sera un txt. El resultado se generará en la misma carpeta del proyecto con un correlativo propio. ejm salida1.txt salida2.txt, etc.
 
 ---
 
