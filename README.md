@@ -1,6 +1,7 @@
 # 🔐 Cifrado César en Java
 
 Este proyecto implementa el algoritmo de **Cifrado César**, una técnica clásica de criptografía, utilizando Java.
+la funcionalidad interpreta solo los caracteres dentro de una clase Alfabeto definido A-Z, para todo lo demas de conservara la sintaxis.
 
 ---
 
