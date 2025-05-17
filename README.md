@@ -16,9 +16,11 @@ Este proyecto implementa el algoritmo de **Cifrado César**, una técnica clási
 ## 📦 Estructura del proyecto
 
 CifradoCesar1/
+
 ├── src/
 
 │ ├── Alfabeto.java
+
 │ └── CifradoCesar1.java
 │ └── Main.java
 ├── salida.txt
