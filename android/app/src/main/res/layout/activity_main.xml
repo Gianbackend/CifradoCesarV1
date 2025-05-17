@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/inputText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Texto a cifrar o descifrar"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/inputShift"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Desplazamiento"
+        android:inputType="number" />
+
+    <!-- Spinner que reemplaza al RadioGroup -->
+    <Spinner
+        android:id="@+id/menuOpciones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/buttonExecute"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ejecutar" />
+
+    <TextView
+        android:id="@+id/outputResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Resultado..."
+        android:textSize="18sp"
+        android:paddingTop="16dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="16dp">
+
+        <TextView
+            android:id="@+id/outputHistorial"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Historial:"
+            android:textSize="14sp"
+            android:padding="8dp" />
+    </ScrollView>
+</LinearLayout>

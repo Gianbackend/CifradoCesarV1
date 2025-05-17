@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CifradoCesar</string>
+    <string-array name="opciones_menu">
+        <item>Selecciona una opción</item>
+        <item>Cifrar texto</item>
+        <item>Descifrar texto</item>
+        <item>Leer desde archivo (.txt)</item>
+    </string-array>
+</resources>
