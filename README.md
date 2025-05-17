@@ -44,12 +44,5 @@ CifradoCesar1/
 
 ---
 
-## ✅ Después de crearlo
+## ✅ Enjoy
 
-3. Guarda el archivo.
-4. Ejecuta estos comandos en terminal:
-
-```bash
-git add README.md
-git commit -m "Agregando README al proyecto"
-git push
